@@ -1,4 +1,5 @@
 <script setup>
+import Component5 from './components/Component5.vue';
 import Component6 from './components/Component6.vue';
 import Component7 from './components/Component7.vue';
 import HelloWorld from './components/HelloWorld.vue'
@@ -14,6 +15,9 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <Component5 />
+  <Component6 />
+  <Component7 />
 </template>
 
 <style scoped>
