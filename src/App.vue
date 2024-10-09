@@ -9,7 +9,10 @@ import Component7 from './components/Component7.vue';
 
 <template>
 
-  
+  <Component6 />
+  <br>
+  <Component7 />
+  <br>
   <CheckboxCr />
   <br>
   <ContadorCr />
