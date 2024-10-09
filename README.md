@@ -10,7 +10,7 @@ Enunciado: Crea un componente con un menú desplegable (select) que permita al u
 Enunciado: Crea un componente que tenga un checkbox para indicar si un usuario está activo o inactivo. Muestra un mensaje que cambie dinámicamente según el estado del checkbox.
 
 4.  Input de número con contador
-Enunciado: Crea un componente que tenga un input de tipo número. El valor del input debe controlarse mediante v-model y mostrarlo en un párrafo.
+Enunciado: Crea un componente que tenga un checkbox para indicar si un usuario está activo o inactivo. Muestra un mensaje que cambie dinámicamente según el estado del checkbox.
 
 5.  Textarea con descripción
 Enunciado: Crea un componente que tenga un textarea donde el usuario pueda escribir una descripción. Muestra la descripción introducida en tiempo real en un párrafo debajo del textarea.
@@ -21,7 +21,7 @@ Enunciado: Crea un componente que tenga un enlace (a) donde el href sea dinámic
 7.  Enlace dinámico al atributo src de una imagen
 Enunciado: Crea un componente que muestre una imagen con un src dinámico. El enlace de la imagen debe estar almacenado en el data del componente y cambiarse mediante v-bind.
 
-8.  lases dinámicas con v-bind:class
+8.  Clases dinámicas con v-bind:class
 Enunciado: Crea un componente que tenga un botón. El botón debe tener una clase CSS dinámica que cambie según un valor booleano en el data. Usa v-bind:class para aplicar la clase condicionalmente.
 
 FAVOR REALIZAR LOS EJERCICIOS DE LA ACTIVIDAD EN GRUPOS DE TRES O CUATRO PERSONAS.
