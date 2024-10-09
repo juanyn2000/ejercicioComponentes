@@ -1,4 +1,6 @@
 <script setup>
+import Component6 from './components/Component6.vue';
+import Component7 from './components/Component7.vue';
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
