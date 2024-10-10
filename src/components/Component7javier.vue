@@ -9,7 +9,7 @@ El enlace de la imagen debe estar almacenado en el data del componente y cambiar
 
 <script>
 export default {
-  name: "Component7",
+  name: "Component7javier",
   data() {
     return {
       imgURl:
