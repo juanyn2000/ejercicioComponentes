@@ -11,9 +11,11 @@ import Component8 from './components/Component8.vue';
 <template>
 
   <h3>Componente 1</h3>
-  <br />
-  <h3>Componente 1</h3>
-  <br />
+  <br>
+
+  <h3>Componente 2</h3>
+  <br>
+
   <h3>Componente 3</h3>
   <CheckboxCr />
   <br>
@@ -35,7 +37,7 @@ import Component8 from './components/Component8.vue';
 
   <h3>Compente 7 - Versión Alternativa</h3>
   <Component7javier />
-  <br />
+  <br>
 
   <h3>Componente 8</h3>
   <Component8 />
