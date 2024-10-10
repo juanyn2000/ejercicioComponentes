@@ -30,7 +30,7 @@ import Component8 from './components/Component8.vue'
   <br>
 
   <h3>Componente 7</h3>
-  <Component7>
+  <Component7 />
   <br>
 
   <h3>Compente 7 - Versión Alternativa</h3>
